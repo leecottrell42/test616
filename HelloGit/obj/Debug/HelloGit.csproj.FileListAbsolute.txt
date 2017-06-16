@@ -1,1 +1,15 @@
 C:\Users\lee_c\Downloads\test616-addChris\test616-addChris\HelloGit\bin\Debug\HelloGit.exe.config
+C:\Users\lee_c\Documents\GitHub\test616\HelloGit\bin\Debug\HelloGit.exe.config
+C:\Users\lee_c\Documents\GitHub\test616\HelloGit\bin\Debug\HelloGit.exe
+C:\Users\lee_c\Documents\GitHub\test616\HelloGit\bin\Debug\HelloGit.pdb
+C:\Users\lee_c\Documents\GitHub\test616\HelloGit\obj\Debug\HelloGit.csprojResolveAssemblyReference.cache
+C:\Users\lee_c\Documents\GitHub\test616\HelloGit\obj\Debug\MainWindow.g.cs
+C:\Users\lee_c\Documents\GitHub\test616\HelloGit\obj\Debug\App.g.cs
+C:\Users\lee_c\Documents\GitHub\test616\HelloGit\obj\Debug\HelloGit_MarkupCompile.cache
+C:\Users\lee_c\Documents\GitHub\test616\HelloGit\obj\Debug\HelloGit_MarkupCompile.lref
+C:\Users\lee_c\Documents\GitHub\test616\HelloGit\obj\Debug\MainWindow.baml
+C:\Users\lee_c\Documents\GitHub\test616\HelloGit\obj\Debug\HelloGit.g.resources
+C:\Users\lee_c\Documents\GitHub\test616\HelloGit\obj\Debug\HelloGit.Properties.Resources.resources
+C:\Users\lee_c\Documents\GitHub\test616\HelloGit\obj\Debug\HelloGit.csproj.GenerateResource.Cache
+C:\Users\lee_c\Documents\GitHub\test616\HelloGit\obj\Debug\HelloGit.exe
+C:\Users\lee_c\Documents\GitHub\test616\HelloGit\obj\Debug\HelloGit.pdb

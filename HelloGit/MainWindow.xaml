@@ -11,6 +11,7 @@
         <Button x:Name="buttonLee" Content="Lee" HorizontalAlignment="Left" Margin="5,51,0,0" VerticalAlignment="Top" Width="75" FontSize="18" Click="buttonLee_Click"/>
         <Button x:Name="buttonLaurie" Content="Laurie" HorizontalAlignment="Left" Margin="5,85,0,0" VerticalAlignment="Top" Width="75" FontSize="18" Click="buttonLaurie_Click"/>
         <Button x:Name="buttonChris" Content="Chris" HorizontalAlignment="Left" Margin="5,121,0,0" VerticalAlignment="Top" Width="75" FontSize="18" Click="buttonChris_Click"/>
+        <Button x:Name="buttonLiz" Content="Lizzie" HorizontalAlignment="Left" Margin="5,155,0,0" VerticalAlignment="Top" Width="75" FontSize="18" Click="buttonLiz_Click"/>
 
     </Grid>
 </Window>
