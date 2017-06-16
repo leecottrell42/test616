@@ -10,6 +10,7 @@
         <Label x:Name="labelOutput" Content="Click a button for a message..." HorizontalAlignment="Left" Margin="5,10,0,0" VerticalAlignment="Top" Width="500" FontSize="20"/>
         <Button x:Name="buttonLee" Content="Lee" HorizontalAlignment="Left" Margin="5,51,0,0" VerticalAlignment="Top" Width="75" FontSize="18" Click="buttonLee_Click"/>
         <Button x:Name="buttonLaurie" Content="Laurie" HorizontalAlignment="Left" Margin="5,85,0,0" VerticalAlignment="Top" Width="75" FontSize="18" Click="buttonLaurie_Click"/>
+        <Button x:Name="buttonChris" Content="Chris" HorizontalAlignment="Left" Margin="5,121,0,0" VerticalAlignment="Top" Width="75" FontSize="18" Click="buttonChris_Click"/>
 
     </Grid>
 </Window>
