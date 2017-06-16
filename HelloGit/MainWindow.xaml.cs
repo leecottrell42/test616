@@ -34,5 +34,10 @@ namespace HelloGit
         {
             labelOutput.Content = "Laurie was here";
         }
+
+        private void buttonChris_Click(object sender, RoutedEventArgs e)
+        {
+            labelOutput.Content = "Chris was here";
+        }
     }
 }
